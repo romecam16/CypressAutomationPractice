@@ -1,0 +1,26 @@
+{
+  "name": "cypressautomationpractice",
+  "version": "1.0.0",
+  "description": "basic cypress framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/romecam16/CypressAutomationPractice.git"
+  },
+  "keywords": [
+    "Cypress",
+    "POM"
+  ],
+  "author": "Camilo Romero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/romecam16/CypressAutomationPractice/issues"
+  },
+  "homepage": "https://github.com/romecam16/CypressAutomationPractice#readme",
+  "dependencies": {
+    "cypress": "^9.6.0"
+  }
+}

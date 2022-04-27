@@ -1,0 +1,26 @@
+{
+  "subject": ["Customer service", "Webmaster"],
+  "email": {
+      "valid": "test@gmail.com",
+      "invalid": "test.123"
+    },
+    "orderReference":{
+      "empty": "",
+      "number":45896,
+      "text": "testReference"
+    },
+  "message": {
+    "valid": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec consectetur condimentum erat ut iaculis",
+    "empty": ""
+  },
+  "alert":{
+    "success": "Your message has been successfully sent to our team",
+    "failureSubject": "Please select a subject from the list provided.",
+    "failureMail": "Invalid email address.",
+    "failureMessage":"The message cannot be blank."
+  },
+  "subjectMessage": {
+    "customer": "For any question about a product, an order",
+    "webmaster": "If a technical problem occurs on this website"
+  }
+}
