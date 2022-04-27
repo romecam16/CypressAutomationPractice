@@ -21,3 +21,6 @@ Or run the test cases included in the tests\UI folder (ContactForm.spec.js) usin
 npx cypress open
 
 After the execution modal is open click on the contactForm.spec.js option and the execution of the suite will start.
+
+4. A mochawesome test execution report is generated once the npm test process is finished.
+To view it, just open the mochawesome.html generated under the results folder file in any browser.
